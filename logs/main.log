@@ -1,0 +1,400 @@
+2020-10-13 18:15:35,786[ERROR][main            ][                             Bot] - Cant Connect. Pause 10sec and try again. Error: Error removing old webhook
+2020-10-13 18:15:46,009[ERROR][main            ][                             Bot] - Cant Connect. Pause 10sec and try again. Error: Error removing old webhook
+2020-10-13 18:15:56,240[ERROR][main            ][                             Bot] - Cant Connect. Pause 10sec and try again. Error: Error removing old webhook
+2020-10-13 18:16:06,511[ERROR][main            ][                             Bot] - Cant Connect. Pause 10sec and try again. Error: Error removing old webhook
+2020-10-13 18:17:17,822[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-13 18:22:58,283[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-13 18:23:34,076[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-14 12:11:06,791[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-14 13:04:20,122[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 00:07:24,146[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:00:15,813[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:01:38,150[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:04:39,192[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:04:55,272[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:05:52,153[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:07:52,798[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:08:54,217[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:10:57,389[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:11:07,462[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:13:19,706[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 01:13:25,772[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:15:13,495[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:15:38,598[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:16:45,999[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:18:31,360[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:18:39,442[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:19:04,440[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:19:05,530[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:20:17,565[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:20:26,809[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:21:12,216[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:21:14,291[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:21:47,553[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:22:44,567[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:24:16,487[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:24:17,490[ERROR][MsgSender       ][                   MessageSender] - Text parameter can't be empty
+org.telegram.telegrambots.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage{chatId='427602230', text='null', parseMode='null', disableWebPagePreview=null, replyToMessageId=null, replyMarkup=null}
+	at org.telegram.telegrambots.api.methods.send.SendMessage.validate(SendMessage.java:183)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendMethodRequest(DefaultAbsSender.java:729)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:689)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:25:53,526[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:26:00,594[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:26:34,007[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:26:56,592[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:29:49,377[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:31:24,104[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:31:27,201[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: message is too long
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:32:09,746[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 02:55:05,449[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 03:04:14,104[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 03:06:36,349[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 03:07:37,208[ERROR][MsgSender       ][                   MessageSender] - Error sending message
+org.telegram.telegrambots.exceptions.TelegramApiRequestException: Error sending message: [400] Bad Request: chat not found
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:170)
+	at org.telegram.telegrambots.api.methods.send.SendMessage.deserializeResponse(SendMessage.java:24)
+	at org.telegram.telegrambots.bots.DefaultAbsSender.sendApiMethod(DefaultAbsSender.java:690)
+	at org.telegram.telegrambots.bots.AbsSender.execute(AbsSender.java:53)
+	at MessageSender.send(MessageSender.java:42)
+	at MessageSender.run(MessageSender.java:22)
+	at java.lang.Thread.run(Thread.java:748)
