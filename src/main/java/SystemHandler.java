@@ -21,10 +21,6 @@ public class SystemHandler extends AbstractHandler {
             case HELP:
                 bot.sendQueue.add(getMessageHelp(chatId));
                 break;
-                /*
-            case ID:
-                return "Your telegramID: " + update.getMessage().getFrom().getId();
-                 */
         }
         return "";
     }
@@ -38,9 +34,8 @@ public class SystemHandler extends AbstractHandler {
         text.append("*This is help message*").append(END_LINE).append(END_LINE);
         text.append("[/start](/start) - show start message").append(END_LINE);
         text.append("[/help](/help) - show help message").append(END_LINE);
-        //text.append("[/id](/id) - know your ID in telegram ").append(END_LINE);
-        //text.append("/*notify* _time-in-sec_  - receive notification from me after the specified time").append(END_LINE);
-        text.append("/*weather* _lat_ _lon_ - geographic coordinates forecast").append(END_LINE);
+        text.append("/*weather_now* _lat_ _lon_ - weather now by geographic coordinates").append(END_LINE);
+        text.append("/*weather_daily* _lat_ _lon_ - daily weather by geographic coordinates").append(END_LINE);
 
         sendMessage.setText(text.toString());
         return sendMessage;

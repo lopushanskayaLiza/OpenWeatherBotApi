@@ -13,20 +13,20 @@ import java.util.Scanner;
 
 import static java.lang.Double.parseDouble;
 
-public class Weather extends AbstractHandler{
-    private static final Logger log = Logger.getLogger(Weather.class);
+public class Weather_now extends AbstractHandler{
+    private static final Logger log = Logger.getLogger(Weather_now.class);
     private String WRONG_INPUT_MESSAGE = "Wrong input. " +
             "You must enter the coordinates of the place where you want to know the weather forecast. Like this:\n" +
-            "/weather 33.441792 -94.037689";
+            "/weather_now 33.441792 -94.037689";
 
 
-    public Weather (Bot bot) {super(bot);}
+    public Weather_now (Bot bot) {super(bot);}
 
     @Override
     public String operate(String chatId, ParsedCommand parsedCommand, Update update) {
         String text = parsedCommand.getText();
 
-        String result = parseCoordinates(text);
+        String result = WeatherModel.parseCoordinates(text);
 
         if ("".equals(text) || result.equals("Error"))
             return WRONG_INPUT_MESSAGE;
@@ -42,7 +42,6 @@ public class Weather extends AbstractHandler{
                 res += in.nextLine();
             }
 
-            // WeatherModel должен быть enum
             WeatherModel model = new WeatherModel();
 
             JSONObject object = new JSONObject(res);
@@ -72,18 +71,6 @@ public class Weather extends AbstractHandler{
             return "IOException";
         }
 
-    }
-
-    private static String parseCoordinates(String text) {
-        int index = text.indexOf(" ");
-
-        try {
-            double lat = parseDouble(text.substring(0, index));
-            double lon = parseDouble(text.substring(index + 1));
-            return ("lat=" + lat + "&lon=" + lon);
-        } catch (Exception e) {
-            return "Error";
-        }
     }
 
 }

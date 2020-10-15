@@ -1,6 +1,5 @@
 public enum Command {
     NONE, NOTFORME,
 
-    NOTIFY,
-    START, HELP, ID, WEATHER
+    START, HELP, WEATHER_NOW, WEATHER_DAILY
 }
